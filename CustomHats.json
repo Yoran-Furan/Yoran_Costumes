@@ -7,6 +7,15 @@
             "condition": "None",
             "resource": "yryoran.png",
             "climbresource": "yryoran_Climb.png"
+        },
+        {
+            "author": "夜藍",
+            "package": "Yoran Hats",
+            "name": "僕は珊瑚",
+            "condition": "None",
+            "resource": "yrSango.png",
+            "climbresource": "yrSango_Climb.png",
+            "adaptive": true
         }
     ]
 }
