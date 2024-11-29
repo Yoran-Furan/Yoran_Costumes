@@ -1,0 +1,15 @@
+{
+    "hats": [
+        {
+            "author": "めーぷる",
+            "package": "Mep_cos",
+            "name":"段ボール",
+            "condition": "None",
+            "resource": "Cardboard.png",
+            "backresource": "Cardboard_Back.png",
+            "climbresource": "Cardboard_Climb.png",
+            "adaptive": true
+            
+        }
+    ]
+}
