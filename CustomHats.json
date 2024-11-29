@@ -1,15 +1,12 @@
 {
     "hats": [
         {
-            "author": "めーぷる",
-            "package": "Mep_cos",
-            "name":"段ボール",
+            "author": "夜藍",
+            "package": "Yoran Hats",
+            "name":"寒がりさん",
             "condition": "None",
-            "resource": "Cardboard.png",
-            "backresource": "Cardboard_Back.png",
-            "climbresource": "Cardboard_Climb.png",
-            "adaptive": true
-            
+            "resource": "yryoran.png",
+            "climbresource": "yryoran_Climb.png"
         }
     ]
 }
