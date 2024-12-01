@@ -11,11 +11,28 @@
         {
             "author": "夜藍",
             "package": "Yoran Hats",
+            "name": "笹が足りない",
+            "condition": "None",
+            "resource": "yrPanda.png",
+            "climbresource": "yrPanda_Climb.png",
+            "adaptive": true
+        },
+        {
+            "author": "夜藍",
+            "package": "Yoran Hats",
             "name": "僕は珊瑚",
             "condition": "None",
             "resource": "yrSango.png",
             "climbresource": "yrSango_Climb.png",
             "adaptive": true
+        },
+        {
+            "author": "夜藍",
+            "package": "Yoran Hats",
+            "name": "恥ずかしい",
+            "condition": "None",
+            "resource": "yrShyboy.png",
+            "climbresource": "yrShuboy_Climb.png"
         }
     ]
 }
