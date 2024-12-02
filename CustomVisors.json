@@ -1,6 +1,28 @@
 {
-    "Visors":
-    [
-
+    "Visors": [
+        {
+            "name": "只野ジト目",
+            "author": "夜藍",
+            "package": "Yoran Visors",
+            "resource": "yrYoranB.png"
+        },
+        {
+            "name": "異世界が...",
+            "author": "夜藍",
+            "package": "Yoran Visors",
+            "resource": "yrGenso.png"
+        },
+        {
+            "name": "林檎も足りない",
+            "author": "夜藍",
+            "package": "Yoran Visors",
+            "resource": "yrPandaBy.png"
+        },
+        {
+            "name": "てへぺろ",
+            "author": "夜藍",
+            "package": "Yoran Visors",
+            "resource": "yrwinktehe.png"
+        }
     ]
 }
