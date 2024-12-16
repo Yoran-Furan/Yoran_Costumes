@@ -23,8 +23,7 @@
             "name": "僕は珊瑚",
             "condition": "None",
             "resource": "yrSango.png",
-            "climbresource": "yrSango_Climb.png",
-            "adaptive": true
+            "climbresource": "yrSango_Climb.png"
         },
         {
             "author": "夜藍",
@@ -33,15 +32,6 @@
             "condition": "None",
             "resource": "yrShyboy.png",
             "climbresource": "yrShuboy_Climb.png"
-        },
-        {
-            "author": "夜藍",
-            "package": "Yoran Hats",
-            "name": "放火魔",
-            "condition": "None",
-            "resource": "yrArsonist.png",
-            "climbresource": "yrArsonist_Climb.png",
-            "adaptive": true
         }
     ]
 }

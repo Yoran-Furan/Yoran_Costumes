@@ -28,13 +28,15 @@
             "name": "うーん?",
             "author": "夜藍",
             "package": "Yoran Visors",
-            "resource": "yrthinking.png"
+            "resource": "yrthinking.png",
+            "adaptive": true
         },
         {
             "name": "光がない",
             "author": "夜藍",
             "package": "Yoran Visors",
-            "resource": "yrDarkShobo.png"
+            "resource": "yrDarkShobo.png",
+            "adaptive": true
         },
         {
             "name": "微笑",
