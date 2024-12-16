@@ -23,6 +23,24 @@
             "author": "夜藍",
             "package": "Yoran Visors",
             "resource": "yrwinktehe.png"
+        },
+        {
+            "name": "うーん?",
+            "author": "夜藍",
+            "package": "Yoran Visors",
+            "resource": "yrthinking.png"
+        },
+        {
+            "name": "光がない",
+            "author": "夜藍",
+            "package": "Yoran Visors",
+            "resource": "yrDarkShobo.png"
+        },
+        {
+            "name": "微笑",
+            "author": "夜藍",
+            "package": "Yoran Visors",
+            "resource": "yrHappynano.png"
         }
     ]
 }

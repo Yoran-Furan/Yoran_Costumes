@@ -33,6 +33,15 @@
             "condition": "None",
             "resource": "yrShyboy.png",
             "climbresource": "yrShuboy_Climb.png"
+        },
+        {
+            "author": "夜藍",
+            "package": "Yoran Hats",
+            "name": "放火魔",
+            "condition": "None",
+            "resource": "yrArsonist.png",
+            "climbresource": "yrArsonist_Climb.png",
+            "adaptive": true
         }
     ]
 }
