@@ -43,6 +43,12 @@
             "author": "夜藍",
             "package": "Yoran Visors",
             "resource": "yrHappynano.png"
+        },
+        {
+            "name": "なにもみえない...",
+            "author": "夜藍",
+            "package": "Yoran Visors",
+            "resource": "yrOsakimakkura"
         }
     ]
 }

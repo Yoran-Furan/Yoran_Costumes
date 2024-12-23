@@ -41,6 +41,25 @@
             "condition": "None",
             "resource": "yrArsonist.png",
             "climbresource": "yrArsonist_Climb.png"
+        },
+        {
+            "author": "夜藍",
+            "package": "Yoran Hats",
+            "name": "「こいつがやった!俺じゃない!」*3",
+            "condition": "None",
+            "resource": "YrOrehaYattenai.png",
+            "backresource": "YrOrehaYattenai_Back.png",
+            "climbresource": "YrOrehaYattenai_Climb.png",
+            "adaptive": true
+        },
+        {
+            "author": "夜藍",
+            "package": "Yoran Hats",
+            "name": "あたまこんぽた",
+            "condition": "None",
+            "resource": "yrHeadcornpottage.png",
+            "climbresource": "yrHeadcornpottage_Climb.png",
+            "bounce": true
         }
     ]
 }
