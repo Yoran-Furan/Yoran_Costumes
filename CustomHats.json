@@ -67,7 +67,7 @@
             "name": "おふとんぬくぬく",
             "condition": "None",
             "resource": "yrofuton_Main.png",
-            "backresource": "YrOrehaYattenai_Back.png",
+            "backresource": "yrofuton_back.png",
             "climbresource": "yrofuton_Climb.png",
             "adaptive": true
         },
