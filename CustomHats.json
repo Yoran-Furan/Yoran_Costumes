@@ -60,6 +60,25 @@
             "resource": "yrHeadcornpottage.png",
             "climbresource": "yrHeadcornpottage_Climb.png",
             "bounce": true
+        },
+        {
+            "author": "夜藍",
+            "package": "Yoran Hats",
+            "name": "おふとんぬくぬく",
+            "condition": "None",
+            "resource": "yrofuton_Main.png",
+            "backresource": "YrOrehaYattenai_Back.png",
+            "climbresource": "yrofuton_Climb.png"
+        },
+        {
+            "author": "夜藍",
+            "package": "Yoran Hats",
+            "name": "シャツ",
+            "condition": "None",
+            "resource": "yrshirt_Main.png",
+            "moveresource": "yrshirt_Move.ong",
+            "climbresource": "yrshirt_Climb.png",
+            "bounce": true
         }
     ]
 }

@@ -49,6 +49,54 @@
             "author": "夜藍",
             "package": "Yoran Visors",
             "resource": "yrOsakimakkura.png"
+        },
+        {
+            "name": "BOMB!",
+            "author": "夜藍",
+            "package": "Yoran Visors",
+            "resource": "yrbomb_Main.png"
+        },
+        {
+            "name": "どやぁ",
+            "author": "夜藍",
+            "package": "Yoran Visors",
+            "resource": "yrdoyaxa_Main.png"
+        },
+        {
+            "name": "(｀・∀・´)",
+            "author": "夜藍",
+            "package": "Yoran Visors",
+            "resource": "yrehhen_Main.png"
+        },
+        {
+            "name": "ﾍｯ!?",
+            "author": "夜藍",
+            "package": "Yoran Visors",
+            "resource": "yrettu_Main.png"
+        },
+        {
+            "name": "ぬん",
+            "author": "夜藍",
+            "package": "Yoran Visors",
+            "resource": "yrNun_Main.png"
+        },
+        {
+            "name": "ぐるぐる",
+            "author": "夜藍",
+            "package": "Yoran Visors",
+            "resource": "yrGuruguru_Main.png"
+        },
+        {
+            "name": "ぴょん",
+            "author": "夜藍",
+            "package": "Yoran Visors",
+            "resource": "yrrabbit_Main.png"
+        },
+        {
+            "name": "もちもち",
+            "author": "夜藍",
+            "package": "Yoran Visors",
+            "resource": "yrslime_Main.png"
         }
     ]
 }
