@@ -68,7 +68,8 @@
             "condition": "None",
             "resource": "yrofuton_Main.png",
             "backresource": "YrOrehaYattenai_Back.png",
-            "climbresource": "yrofuton_Climb.png"
+            "climbresource": "yrofuton_Climb.png",
+            "adaptive": true
         },
         {
             "author": "夜藍",
@@ -78,7 +79,8 @@
             "resource": "yrshirt_Main.png",
             "moveresource": "yrshirt_Move.ong",
             "climbresource": "yrshirt_Climb.png",
-            "bounce": true
+            "bounce": true,
+            "adaptive": true
         }
     ]
 }
